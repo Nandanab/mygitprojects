@@ -1,0 +1,1017 @@
+TGridViewDemo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch GridViewDemo/GridViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo normal i386
+cCopyStringsFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings GridViewDemo/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard
+cCompileAssetCatalog /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets
+cProcessInfoPlistFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist
+cGenerateDSYMFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo
+cTouch /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053679CB500000000000003B4
+t1399299253
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053679CC5000000000000019E
+t1399299269
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000053679CC60000000000059340
+t1399299270
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053679CC7000000000058E0E0
+t1399299271
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053679CC800000000005B82F0
+t1399299272
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053679CC80000000000446820
+t1399299272
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053679CC800000000003599D0
+t1399299272
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053679CC900000000002FC3B0
+t1399299273
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053679CC9000000000004B000
+t1399299273
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053679CCA000000000088D8C0
+t1399299274
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053679CCC0000000000037680
+t1399299276
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053679CCD000000000048F720
+t1399299277
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053679CCD000000000013FD70
+t1399299277
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053679CD00000000001F1DE10
+t1399299280
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053679CE800000000002BC360
+t1399299304
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000053679CF20000000000002338
+t1399299314
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053679CF4000000000008D370
+t1399299316
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000053679CF40000000000392E20
+t1399299316
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005374AE9B00000000000141F0
+t1400155803
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053679CF40000000000014A80
+t1399299316
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000053679CF40000000000033BA0
+t1399299316
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053679CF4000000000001CFB0
+t1399299316
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053679CF4000000000001B2B0
+t1399299316
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000053679CF400000000000C9570
+t1399299316
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053679CF40000000000063280
+t1399299316
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000053679CF40000000000008880
+t1399299316
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053679CF40000000000015080
+t1399299316
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053679CF400000000000230F0
+t1399299316
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053679CF4000000000000E380
+t1399299316
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053679CF40000000000089380
+t1399299316
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000053679CF40000000000017320
+t1399299316
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053679CF40000000000039CD0
+t1399299316
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053679CF4000000000000B0B0
+t1399299316
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053679CF50000000000167E80
+t1399299317
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053679CF500000000000106A0
+t1399299317
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053679CF5000000000001CE40
+t1399299317
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053679CF500000000000740C0
+t1399299317
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053679CF5000000000006CA60
+t1399299317
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053679CF5000000000001BAD0
+t1399299317
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053679CF50000000000084A20
+t1399299317
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053679D400000000000000ADC
+t1399299392
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533B6E08000000000000514C
+t1396403720
+s20812
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o
+t1402487952
+s62392
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o
+t1402494220
+s44216
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/GridViewDemo.LinkFileList
+c000000005398447900000000000002DA
+t1402487929
+s730
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o
+t1402501889
+s61580
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o
+t1402487952
+s3556
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_dependencies.txt
+t1402487995
+s478
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_generated_info.plist
+t1402487994
+s525
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch
+t1402487951
+s116364
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app
+t1402501890
+s714
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM
+t1402501891
+s102
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Base.lproj/Main.storyboardc
+t1402488402
+s238
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Base.lproj/MainStoryboard.storyboardc
+t1402494712
+s238
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo
+t1402501890
+s32616
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist
+t1402494232
+s1046
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/PkgInfo
+t1402494232
+s8
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg
+t1402487967
+s85272
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg
+t1402487967
+s95679
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg
+t1402487983
+s59753
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings
+t1402487967
+s42
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg
+t1402487967
+s91060
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg
+t1402487983
+s68768
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg
+t1402487983
+s61199
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg
+t1402487983
+s70986
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg
+t1402487967
+s82934
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg
+t1402487967
+s66454
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg
+t1402487984
+s99304
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg
+t1402487983
+s65460
+
+N/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg
+t1402487967
+s56038
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.h
+c0000000053981EA50000000000000121
+t1402478245
+s289
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m
+c0000000053981EA500000000000007E3
+t1402478245
+s2019
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard
+c00000000539846110000000000001C35
+t1402488337
+s7221
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard
+c0000000053985EDF00000000000020CA
+t1402494687
+s8394
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.h
+c0000000053984218000000000000015F
+t1402487320
+s351
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m
+c0000000053985CD9000000000000045B
+t1402494169
+s1115
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist
+c0000000053985C2A00000000000004DB
+t1402493994
+s1243
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Prefix.pch
+c0000000053981EA50000000000000158
+t1402478245
+s344
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets
+c0000000053981EA50000000000000088
+t1402478245
+s136
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/angry_birds_cake.jpg
+c000000005027DD1F0000000000014D18
+t1344789791
+s85272
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/creme_brelee.jpg
+c000000005027E09F00000000000175BF
+t1344790687
+s95679
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/egg_benedict.jpg
+c000000005027E232000000000000E969
+t1344791090
+s59753
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/full_breakfast.jpg
+c000000005027E10F00000000000163B4
+t1344790799
+s91060
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/green_tea.jpg
+c000000005027DBD50000000000010CA0
+t1344789461
+s68768
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/ham_and_cheese_panini.jpg
+c000000005027E1EE000000000000EF0F
+t1344791022
+s61199
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/ham_and_egg_sandwich.jpg
+c000000005027E32D000000000001154A
+t1344791341
+s70986
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/hamburger.jpg
+c000000005027E2C000000000000143F6
+t1344791232
+s82934
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/instant_noodle_with_egg.jpg
+c000000005027DB770000000000010396
+t1344789367
+s66454
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/japanese_noodle_with_pork.jpg
+c000000005027DF1B00000000000183E8
+t1344790299
+s99304
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/mushroom_risotto.jpg
+c000000005027E150000000000000FFB4
+t1344790864
+s65460
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/noodle_with_bbq_pork.jpg
+c000000005027D5AF000000000000DAE6
+t1344787887
+s56038
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.h
+c00000000539878FA000000000000011E
+t1402501370
+s286
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m
+c0000000053987AFF0000000000000BFF
+t1402501887
+s3071
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/en.lproj/InfoPlist.strings
+c0000000053981EA5000000000000002D
+t1402478245
+s45
+
+N/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m
+c0000000053981EA5000000000000015D
+t1402478245
+s349
+
+N/usr/lib/libSystem.B.dylib
+c000000005374AE85000000000000E6D0
+t1400155781
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000527D92E40000000000012A00
+t1383961316
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000527D92BE000000000002E320
+t1383961278
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000527D92D00000000000021860
+t1383961296
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000527D92E3000000000001B620
+t1383961315
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000527D92E300000000000BD920
+t1383961315
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005374AE9B00000000000141F0
+t1400155803
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000527D92E4000000000000A120
+t1383961316
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000532BAEAF000000000001D550
+t1395371695
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000527D92E30000000000014EE0
+t1383961315
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000527D92E70000000000010380
+t1383961319
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000527D92E7000000000000C4C0
+t1383961319
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000527D92E400000000000357A0
+t1383961316
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000527D92E4000000000000C070
+t1383961316
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000532BAE780000000000168D00
+t1395371640
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005374AE970000000000010630
+t1400155799
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000532BAEAF000000000001DF10
+t1395371695
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000527D92D00000000000075B00
+t1383961296
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005374AE85000000000007CD60
+t1400155781
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000527D92D000000000000766C0
+t1383961296
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000532BAEAF0000000000044DC0
+t1395371695
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000527D92D00000000000021FA0
+t1383961296
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000532BAEAF000000000002D920
+t1395371695
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000527D92E5000000000001E570
+t1383961317
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005374AE8E000000000000CC70
+t1400155790
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000527D92DD000000000000C3F0
+t1383961309
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000527D92E500000000000199F0
+t1383961317
+s104944
+
+CBuild AST from /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m
+r0
+
+CBuild AST from /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m
+r0
+
+CBuild AST from /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies404b6f075049b941^2a1ca1075049b941^---0#1#1#--18"Check dependencies36"9A2685E8-A66A-4BC2-8FFC-4773AE8C22F1-
+
+CCompileAssetCatalog /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets
+s424180783.882707
+e424180795.029338
+r1
+xCompileAssetCatalog
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/LaunchImage-700-568h@2x.png
+o/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Assets.car
+o/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app GridViewDemo/Images.xcassets127"CompileAssetCatalog DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app GridViewDemo/Images.xcassetscf14e22f7c48b941^0e85073b7c48b941^-506"/* com.apple.actool.compilation-results *//Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/LaunchImage-700-568h@2x.png/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Assets.car/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@78"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets/0000000000000000^1293"CompileAssetCatalog DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app GridViewDemo/Images.xcassets    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Images.xcassets36"11E2D645-8738-41E3-8E32-83D8842F5293-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424180751.504514
+e424180752.513269
+r1
+xCompileC
+xDerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m242"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o GridViewDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6151810f7c48b941^566583107c48b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m0000000000000000^4163"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o GridViewDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nandanabehera/Desktop/GridViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-generated-files.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-own-target-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-all-target-headers.hmap -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-project-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources/i386 -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -include /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.dia -c /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.m -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o36"734E1EAB-FC22-43B2-B886-851B0DB31873-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424186997.800412
+e424187020.095255
+r1
+xCompileC
+xDerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m262"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o GridViewDemo/DetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0709cd759448b941^1f69188c9448b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m0000000000000000^4223"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o GridViewDemo/DetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nandanabehera/Desktop/GridViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-generated-files.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-own-target-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-all-target-headers.hmap -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-project-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources/i386 -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -include /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.d --serialize-diagnostics /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.dia -c /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.m -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o36"84BAB35E-4962-4C70-AC1C-7F98D5125B9B-
+b3D7932E6-3D42-44BC-81B2-CA16C6F2E3E1
+
+CCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424194687.230446
+e424194689.962714
+r1
+xCompileC
+xDerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.h
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/DetailsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m248"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o GridViewDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler452f3b7fb248b941^7077f681b248b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m0000000000000000^4181"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o GridViewDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nandanabehera/Desktop/GridViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-generated-files.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-own-target-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-all-target-headers.hmap -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-project-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources/i386 -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -include /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.dia -c /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/ViewController.m -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o36"C4158059-F49E-4703-AFFB-533584255B91-
+bF09EB113-741D-42B8-973B-B9B6DE1037FE
+
+CCompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424180751.505022
+e424180752.513062
+r1
+xCompileC
+xDerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m228"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o GridViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a65810f7c48b941^105a83107c48b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m0000000000000000^4121"CompileC DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o GridViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nandanabehera/Desktop/GridViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-generated-files.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-own-target-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-all-target-headers.hmap -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-project-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources/i386 -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -include /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.dia -c /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/main.m -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o36"2E35F236-F1CC-4081-A0C8-0020B09F3B99-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCompileStoryboard /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard
+s424181179.500579
+e424181202.526996
+r1
+xCompileStoryboard
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard:bW1-3N-fIf: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:] [9]
+o/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard:sxb-5D-6Gw: warning: Prototype collection view cells must have reuse identifiers [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard GridViewDemo/Base.lproj/Main.storyboard57"CompileStoryboard GridViewDemo/Base.lproj/Main.storyboard994580bb7d48b941^31ea86d27d48b941^-447"/* com.apple.ibtool.document.warnings *//Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard:bW1-3N-fIf: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:]/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard:sxb-5D-6Gw: warning: Prototype collection view cells must have reuse identifiers2(21%IDEActivityLogMessage2@139"Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:]-424181202#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@88"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@59"Prototype collection view cells must have reuse identifiers-424181202#18446744073709551615#0#-1#-3@88"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@88"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard0000000000000000^888"CompileStoryboard GridViewDemo/Base.lproj/Main.storyboard    cd /Users/nandanabehera/Desktop/GridViewDemo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Base.lproj/Main.storyboardc /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard36"F5123F20-E8D1-4BA9-9DAD-B9FCBD3404C1-
+b884919A8-3B3A-4C54-AD12-B4EFDF41E11A
+
+CCompileStoryboard /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard
+s424187490.739069
+e424187512.557767
+r1
+xCompileStoryboard
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CompileStoryboard GridViewDemo/Base.lproj/MainStoryboard.storyboard67"CompileStoryboard GridViewDemo/Base.lproj/MainStoryboard.storyboard2444bd629648b941^36ca8e789648b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard0000000000000000^918"CompileStoryboard GridViewDemo/Base.lproj/MainStoryboard.storyboard    cd /Users/nandanabehera/Desktop/GridViewDemo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Base.lproj/MainStoryboard.storyboardc /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Base.lproj/MainStoryboard.storyboard36"0F43BD7C-F8F7-42B4-9403-9FEC2558FC2D-
+bE8A74455-57EF-442D-A3F3-6F0F0BB58A42
+
+CCopyStringsFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings GridViewDemo/en.lproj/InfoPlist.strings
+s424180767.341691
+e424180767.571830
+r1
+xCopyStringsFile
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings
+xGridViewDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy GridViewDemo/en.lproj/InfoPlist.strings161"CopyStringsFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings GridViewDemo/en.lproj/InfoPlist.stringsa48d571f7c48b941^0a64921f7c48b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/en.lproj/InfoPlist.strings0000000000000000^669"CopyStringsFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj/InfoPlist.strings GridViewDemo/en.lproj/InfoPlist.strings    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/en.lproj -- GridViewDemo/en.lproj/InfoPlist.strings36"3CB7BB00-BA91-4A20-B768-01687B452D13-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/angry_birds_cake.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg
+s424180767.725144
+e424180767.791248
+r1
+xCpResource
+xGridViewDemo/Resources/angry_birds_cake.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg154"CpResource GridViewDemo/Resources/angry_birds_cake.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg8db3b91f7c48b941^5391ca1f7c48b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg0034a0beddffdf42^718"CpResource GridViewDemo/Resources/angry_birds_cake.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/angry_birds_cake.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/angry_birds_cake.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"9B9F8E33-752B-476A-B575-403E4CAABD85-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/creme_brelee.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg
+s424180767.294527
+e424180767.341378
+r1
+xCpResource
+xGridViewDemo/Resources/creme_brelee.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg146"CpResource GridViewDemo/Resources/creme_brelee.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg6b7f4b1f7c48b941^766c641f7c48b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg0034a0beddffdf42^706"CpResource GridViewDemo/Resources/creme_brelee.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/creme_brelee.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/creme_brelee.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"7690CFC2-3BB6-4E18-8022-6681DA83F8B4-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/egg_benedict.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg
+s424180783.605549
+e424180783.875895
+r1
+xCpResource
+xGridViewDemo/Resources/egg_benedict.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg146"CpResource GridViewDemo/Resources/egg_benedict.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpgc11e9b2f7c48b941^923be02f7c48b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg0034a0beddffdf42^706"CpResource GridViewDemo/Resources/egg_benedict.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/egg_benedict.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/egg_benedict.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"0D3EBDB4-7E72-45C2-9708-58C044A58356-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/full_breakfast.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg
+s424180767.076136
+e424180767.294274
+r1
+xCpResource
+xGridViewDemo/Resources/full_breakfast.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg150"CpResource GridViewDemo/Resources/full_breakfast.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg9a93131f7c48b941^de594b1f7c48b941^---0#0#1#-19%DVTDocumentLocation2@146"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg0034a0beddffdf42^712"CpResource GridViewDemo/Resources/full_breakfast.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/full_breakfast.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/full_breakfast.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"84F8A7B3-5B13-47FF-9A02-E7E69186A7E7-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/green_tea.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg
+s424180782.630778
+e424180783.602910
+r1
+xCpResource
+xGridViewDemo/Resources/green_tea.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg140"CpResource GridViewDemo/Resources/green_tea.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpgdb8aa12e7c48b941^475a9a2f7c48b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg0034a0beddffdf42^697"CpResource GridViewDemo/Resources/green_tea.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/green_tea.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/green_tea.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"46B90434-6946-4683-BC1E-34AB7A73CBB1-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/ham_and_cheese_panini.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg
+s424180782.630702
+e424180783.376459
+r1
+xCpResource
+xGridViewDemo/Resources/ham_and_cheese_panini.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg164"CpResource GridViewDemo/Resources/ham_and_cheese_panini.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpgc687a12e7c48b941^0a66602f7c48b941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg0034a0beddffdf42^733"CpResource GridViewDemo/Resources/ham_and_cheese_panini.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_cheese_panini.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/ham_and_cheese_panini.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"83408286-9E52-4273-A4CF-EA3C2DF70997-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/ham_and_egg_sandwich.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg
+s424180783.779918
+e424180783.882426
+r1
+xCpResource
+xGridViewDemo/Resources/ham_and_egg_sandwich.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg162"CpResource GridViewDemo/Resources/ham_and_egg_sandwich.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg2bc0c72f7c48b941^36eae12f7c48b941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg0034a0beddffdf42^730"CpResource GridViewDemo/Resources/ham_and_egg_sandwich.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/ham_and_egg_sandwich.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/ham_and_egg_sandwich.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"78D58BD1-A8CC-4BB6-91D6-16EC0713E61F-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/hamburger.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg
+s424180767.635077
+e424180767.663951
+r1
+xCpResource
+xGridViewDemo/Resources/hamburger.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg140"CpResource GridViewDemo/Resources/hamburger.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg54aca21f7c48b941^59f9a91f7c48b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg0034a0beddffdf42^697"CpResource GridViewDemo/Resources/hamburger.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/hamburger.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/hamburger.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"52D285E1-4C78-4085-8D72-894AFBF0AA69-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/image1.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image1.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image2.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image2.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image3.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image3.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image4.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image4.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image5.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image5.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image6.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image6.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image7.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image7.jpg
+r0
+
+CCpResource GridViewDemo/Resources/image8.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/image8.jpg
+r0
+
+CCpResource GridViewDemo/Resources/instant_noodle_with_egg.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg
+s424180767.572157
+e424180767.634722
+r1
+xCpResource
+xGridViewDemo/Resources/instant_noodle_with_egg.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg168"CpResource GridViewDemo/Resources/instant_noodle_with_egg.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg9c8c921f7c48b941^5f7fa21f7c48b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg0034a0beddffdf42^739"CpResource GridViewDemo/Resources/instant_noodle_with_egg.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/instant_noodle_with_egg.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/instant_noodle_with_egg.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"E9D40562-450D-4D7E-80A1-EDEC6D701C0F-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/japanese_noodle_with_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg
+s424180783.876124
+e424180784.014678
+r1
+xCpResource
+xGridViewDemo/Resources/japanese_noodle_with_pork.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg172"CpResource GridViewDemo/Resources/japanese_noodle_with_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg465ce02f7c48b941^0dc303307c48b941^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg0034a0beddffdf42^745"CpResource GridViewDemo/Resources/japanese_noodle_with_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/japanese_noodle_with_pork.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/japanese_noodle_with_pork.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"19CC7F44-CAC6-4006-97F8-ACC8336E6988-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/mushroom_risotto.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg
+s424180783.377952
+e424180783.779621
+r1
+xCpResource
+xGridViewDemo/Resources/mushroom_risotto.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg154"CpResource GridViewDemo/Resources/mushroom_risotto.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg49db602f7c48b941^5298c72f7c48b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg0034a0beddffdf42^718"CpResource GridViewDemo/Resources/mushroom_risotto.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/mushroom_risotto.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/mushroom_risotto.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"9FADCD9D-7E3D-4361-AEDD-AE8D7ED74B18-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/noodle_with_bbq_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg
+s424180767.664162
+e424180767.724900
+r1
+xCpResource
+xGridViewDemo/Resources/noodle_with_bbq_pork.jpg
+xDerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg162"CpResource GridViewDemo/Resources/noodle_with_bbq_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg6615aa1f7c48b941^3a94b91f7c48b941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg0034a0beddffdf42^730"CpResource GridViewDemo/Resources/noodle_with_bbq_pork.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/noodle_with_bbq_pork.jpg    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/Resources/noodle_with_bbq_pork.jpg /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"CC9E83AA-E0DA-449E-A508-C1B6C5AF46E6-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CCpResource GridViewDemo/Resources/starbucks_coffee.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/starbucks_coffee.jpg
+r0
+
+CCpResource GridViewDemo/Resources/thai_shrimp_cake.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/thai_shrimp_cake.jpg
+r0
+
+CCpResource GridViewDemo/Resources/vegetable_curry.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/vegetable_curry.jpg
+r0
+
+CCpResource GridViewDemo/Resources/white_chocolate_donut.jpg DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/white_chocolate_donut.jpg
+r0
+
+CGenerateDSYMFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo
+s424194691.035140
+e424194691.183992
+r1
+xGenerateDSYMFile
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM192"GenerateDSYMFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemod4100983b248b941^541c2f83b248b941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM/0000000000000000^800"GenerateDSYMFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app.dSYM36"E08B007C-0106-40C4-95C7-4DDCEC40E5E1-
+bF09EB113-741D-42B8-973B-B9B6DE1037FE
+
+CLd /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo normal i386
+s424194689.964831
+e424194691.032826
+r1
+xLd
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo
+xnormal
+xi386
+d/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/GridViewDemo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/AppDelegate.o
+d/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/main.o
+d/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/ViewController.o
+d/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/DetailsViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo106"Ld DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo normal i386be13f781b248b941^f1670883b248b941^---0#0#1#--1632"Ld DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo normal i386    cd /Users/nandanabehera/Desktop/GridViewDemo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator -filelist /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/GridViewDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/Objects-normal/i386/GridViewDemo_dependency_info.dat -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/GridViewDemo36"C28DCC64-C698-45A8-BBD7-5F8CEBA57A28-
+bF09EB113-741D-42B8-973B-B9B6DE1037FE
+
+CProcessInfoPlistFile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist
+s424187032.322759
+e424187032.488507
+r1
+xProcessInfoPlistFile
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist
+x/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist147"ProcessInfoPlistFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist GridViewDemo/GridViewDemo-Info.plistf0175b989448b941^22348e989448b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist0000000000000000^1042"ProcessInfoPlistFile DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist GridViewDemo/GridViewDemo-Info.plist    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Info.plist -genpkginfo /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/assetcatalog_generated_info.plist -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app/Info.plist36"15E68D1B-1E07-40F5-9148-D65C52148B1B-
+b3D7932E6-3D42-44BC-81B2-CA16C6F2E3E1
+
+CProcessPCH /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch GridViewDemo/GridViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424180730.024681
+e424180751.503610
+r1
+xProcessPCH
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch
+xGridViewDemo/GridViewDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile GridViewDemo/GridViewDemo-Prefix.pch256"ProcessPCH DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch GridViewDemo/GridViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler97c910fa7b48b941^d0ee800f7c48b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Prefix.pch0000000000000000^4008"ProcessPCH DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch GridViewDemo/GridViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nandanabehera/Desktop/GridViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-generated-files.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-own-target-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-all-target-headers.hmap -iquote /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/GridViewDemo-project-headers.hmap -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources/i386 -I/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/GridViewDemo.build/Debug-iphonesimulator/GridViewDemo.build/DerivedSources -F/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.d -c /Users/nandanabehera/Desktop/GridViewDemo/GridViewDemo/GridViewDemo-Prefix.pch -o /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Intermediates/PrecompiledHeaders/GridViewDemo-Prefix-hazohqmhsrzyotapwvboxaslpwdu/GridViewDemo-Prefix.pch.pch36"0250A041-2FAB-4C84-A49A-7F3942F9BABB-
+b4A4FC35B-86B5-4CAE-B6BF-B686B507E8B1
+
+CProcessPCH /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Index/PrecompiledHeaders/GridViewDemo-Prefix-ejlplgirycxydaboxhcmgazgmuzv_ast/GridViewDemo-Prefix.pch.pch GridViewDemo/GridViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app
+s424187512.559423
+e424187512.742771
+r1
+xTouch
+x/Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app84"Touch DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.appf6448f789648b941^2827be789648b941^---0#0#1#--472"Touch DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app    cd /Users/nandanabehera/Desktop/GridViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nandanabehera/Desktop/GridViewDemo/DerivedData/GridViewDemo/Build/Products/Debug-iphonesimulator/GridViewDemo.app36"66952453-302D-451A-A613-3DEF00B0EBA9-
+bE8A74455-57EF-442D-A3F3-6F0F0BB58A42
+
